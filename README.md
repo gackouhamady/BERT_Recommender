@@ -55,7 +55,7 @@ The following chart compares the Precision, Recall, and NDCG at k=25 across all 
 * **Model Size Matters:** The larger `Qwen3-Embedding-4B` model significantly outperforms the smaller `MiniLM`, capturing better semantic nuance in movie metadata (titles, genres, tags).
 * **Effect of Fine-tuning:** Fine-tuning the embeddings on user interaction pairs (LoRA for Qwen) provided the highest performance metrics (Precision@25: 0.055, Recall@25: 0.106).
 
-## 🛠️ Methodology
+##  Methodology
 
 The notebook implements five distinct strategies:
 
