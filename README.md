@@ -71,7 +71,7 @@ The final recommendation score is calculated as a weighted sum:
 
 $$Score = \alpha \cdot Score_{MF} + (1 - \alpha) \cdot Score_{Content}$$
 
-*Where $$alpha$$ is tuned to 0.85.*
+, Where $$alpha$$ is tuned to 0.85.*
 
 ##  Setup & Usage
 
