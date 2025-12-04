@@ -1,0 +1,11 @@
+cornac
+sentence-transformers
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+peft
+accelerate
+bitsandbytes
+torch
